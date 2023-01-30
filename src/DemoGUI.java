@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
+import java.util.*;
 
 
 public class DemoGUI extends JFrame {
@@ -40,6 +41,7 @@ public class DemoGUI extends JFrame {
             public void actionPerformed(ActionEvent e ){
                 textPane1.setText(textPane1.getText() + txtName.getText() + "\n");
 
+               //textPane1.append(txtName.getText() + "\n");
 
             }
         });
