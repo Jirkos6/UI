@@ -42,8 +42,6 @@ public class DemoGUI extends JFrame {
 
 
             }
-
-
         });
     }
 
@@ -51,7 +49,7 @@ public class DemoGUI extends JFrame {
         DemoGUI h = new DemoGUI();
         h.setContentPane(h.panelMain);
         h.setTitle("javaGUI");
-        h.setSize(400,300);
+        h.setBounds(600,200,600,200);
         h.setVisible(true);
         h.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 

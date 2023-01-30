@@ -15,7 +15,7 @@
           </grid>
         </constraints>
         <properties>
-          <background color="-1"/>
+          <background color="-6904"/>
           <foreground color="-16777216"/>
           <text value=""/>
         </properties>
@@ -35,7 +35,7 @@
           </grid>
         </constraints>
         <properties>
-          <background color="-1"/>
+          <background color="-16711686"/>
           <text value=""/>
         </properties>
       </component>
