@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="092d7792-dddc-4ce9-a648-dd4b961ec453" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoGUI.form" afterDir="false" />
+    <list default="true" id="092d7792-dddc-4ce9-a648-dd4b961ec453" name="Changes" comment="jaky je mastr">
       <change beforePath="$PROJECT_DIR$/src/DemoGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +61,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674206103158</updated>
     </task>
+    <task id="LOCAL-00001" summary="jaky je mastr">
+      <created>1675062375081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675062375081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jaky je mastr" />
+    <option name="LAST_COMMIT_MESSAGE" value="jaky je mastr" />
   </component>
 </project>
